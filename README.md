@@ -32,7 +32,7 @@ namespace condition
             num2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter number 3:");
             num3 = Convert.ToInt32(Console.ReadLine());
-            if (num1 > num2 && num1 > num3)
+            if (num1 > num2 && num1 > num3) 
             {
                 Console.WriteLine("Number 1 is greatest");
             }
